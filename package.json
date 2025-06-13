@@ -1,0 +1,19 @@
+{
+  "name": "frontend-product",
+  "version": "1.0.0",
+  "description": "Frontend Application of My Software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itu-soft-eng/frontend-product.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itu-soft-eng/frontend-product/issues"
+  },
+  "homepage": "https://github.com/itu-soft-eng/frontend-product#readme"
+}
